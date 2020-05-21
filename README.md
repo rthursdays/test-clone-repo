@@ -1,2 +1,3 @@
 # test-clone-repo
-A test repor to illustrate cloning from GitHub
+A test repo to illustrate cloning from GitHub
+
